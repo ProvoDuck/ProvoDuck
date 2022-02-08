@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ProvoDuck
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web and game development
 - 🌱 I’m currently learning BackEnd 
 - 📫 Mail -- gioonia2007@gmail.com
 
